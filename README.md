@@ -1,0 +1,2 @@
+# PythonCore
+PythonCore course Softserve
